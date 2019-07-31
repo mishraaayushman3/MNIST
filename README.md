@@ -1,2 +1,2 @@
 # MNIST
-The model is a digit recognizer trained on MNIST dataset
+The model is a digit recognizer trained on MNIST dataset.
